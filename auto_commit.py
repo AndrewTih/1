@@ -3,10 +3,10 @@ import time
 from datetime import datetime
 
 # Путь к файлу, который будет редактироваться
-FILE_PATH = "file.txt"
+FILE_PATH = "123.py"
 
 # Интервал между коммитами (в секундах)
-COMMIT_INTERVAL = 5
+COMMIT_INTERVAL = 3
 
 # Функция для добавления символа в файл
 def append_character_to_file(file_path):
